@@ -1,0 +1,12 @@
+{
+  "name": "cancerianmind",
+  "version": "1.0.0",
+  "description": "CancerianMind — Psychology AI Companion",
+  "scripts": {
+    "start": "npx serve public",
+    "build": "echo 'Static site — no build needed'"
+  },
+  "keywords": ["psychology", "ai", "mental-health"],
+  "author": "CancerianMind",
+  "license": "MIT"
+}
